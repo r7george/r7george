@@ -30,8 +30,12 @@
     <img alt="cypress tab" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=FFFFFF" />
     <img alt="npm tab" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF" />
   </div>
-  </div>
   <br/>
+
+  ## GitStats
+  <div align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=r7george&show_icons=true&count_private=true&theme=react" width="350"></a>
+  </div>
 </div>
 
 <!--
