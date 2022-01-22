@@ -1,13 +1,13 @@
 <div align="center">
 
-### Hi there 👋 I'm Reuben George, a junior full stack developer based around London
-<hr />
+  ## Hi there 👋 I'm Reuben George, a junior full stack developer based around London
+  <br/>
 
-## Connect with me
+  ## Connect with me
+  <br/>
 
-
-## Tech Stack
-
+  ## Tech Stack
+  <br/>
 <div/>
 
 <!--
