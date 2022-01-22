@@ -9,7 +9,7 @@
       <img alt="linkedin tab" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="./assets/docs/reuben-george-cv.pdf" target="_blank">
-      <img alt="cv tab" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" />
+      <img alt="cv tab" src="https://img.shields.io/badge/CV-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24" />
     </a>
   </div>
   <br/>
