@@ -4,7 +4,7 @@
   <br/>
 
   ## Connect with me
-  <div align="center">
+  <div style="margin-left:auto;margin-right:auto">
     <a href="https://www.linkedin.com/in/reuben-george-19805014a/" target="_blank">
       <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -18,7 +18,8 @@
   <div align="center">
   <!-- HTML, CSS, SCSS. JavaScript, REact, Java, Git, GitHub, Python, Jest, Cypress, NPM, Python  -->
     <img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-    <img align="left" alt="medium" src="https://img.shields.io/badge/CSS3-1572B6-?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+    <img align="left" alt="medium" src="https://img.shields.io/badge/CSS33-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+
   </div>
   <br/>
 </div>
