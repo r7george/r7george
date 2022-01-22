@@ -1,13 +1,14 @@
+<div align="center">
+
 ### Hi there 👋 I'm Reuben George, a junior full stack developer based around London
 <hr />
 
 ## Connect with me
-<hr />
 
 
 ## Tech Stack
-<hr />
 
+<div/>
 
 <!--
 **r7george/r7george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
