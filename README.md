@@ -18,7 +18,7 @@
   <div align="center">
   <!-- HTML, CSS, SCSS. JavaScript, REact, Java, Git, GitHub, Python, Jest, Cypress, NPM-->
     <img alt="html tab" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-    <img alt="css tab" src="https://img.shields.io/badge/CSS33-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+    <img alt="css tab" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
     <img alt="scss tab" src="https://img.shields.io/badge/SASS-F43059?style=for-the-badge&logo=sass&logoColor=FFFFFF" />
     <img alt="javascript tab" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
     <img alt="react tab" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
