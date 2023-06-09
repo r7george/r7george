@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi there 👋 I'm Reuben George, a junior full stack developer
+  ### Hi there 👋 I'm Reuben George, a junior full stack engineer currently working at Goldman Sachs
   <br/>
 
   ## Connect with me
